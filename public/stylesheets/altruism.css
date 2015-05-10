@@ -1,0 +1,21 @@
+* {font-family:monospace;font-size:15px;margin: 0;padding:0;}
+#universe {
+  width: 1000px;
+  position: relative;
+  margin: 0 auto;
+}
+#content{
+  position: relative;
+  width: 930px;
+}
+#header {
+  font-size: 18px;
+  margin: 15px 0;
+}
+#altruisms{
+  
+}
+.altruism{
+  float:left;
+  margin: 5px 5px 0px 0px;
+}

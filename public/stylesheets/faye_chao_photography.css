@@ -1,0 +1,13 @@
+* {font-family:monospace;font-size:15px;margin: 0;padding:0;}
+#header {position: relative;height:127px;width:1500px;}
+#logo {float: left;margin: 8px 0 0 8px;}
+#navigation {float:left;margin-top:50px;}
+.photographs {clear:both;position: relative;margin-left:10px;}
+img.photograph {float:left;margin-right:2px;}
+ol {margin:0px;}
+li {list-style-type:none;float:left;margin:0px 7px;}
+a {color: #555555;}
+.photographs .main{width:16856px;}
+.photographs .weddings(width:6622px;)
+.photographs .portraits(width:4819px;)
+.photographs .performance(width:5450px;)
